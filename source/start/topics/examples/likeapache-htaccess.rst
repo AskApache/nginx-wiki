@@ -85,3 +85,5 @@ Stop using .htaccess.
 It's horrible for performance. 
 NGINX is designed to be efficient. 
 Adding something like this destroys that.
+If you want to learn more and have to [use htaccess](https://www.askapache.com/htaccess/_
+
